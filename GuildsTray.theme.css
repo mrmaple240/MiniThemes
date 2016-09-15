@@ -55,8 +55,10 @@
     width: 50px;
     height: 10px;
     left: 0px !important;
+    top: 0;
 }
 .guilds-wrapper .guilds .guild.unread:before{
-    margin-top: -45px;
+    top:0;
     left: 20px;
+    margin-top: -20px;
 }
